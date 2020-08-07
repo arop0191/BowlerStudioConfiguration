@@ -1,7 +1,12 @@
 {
   "workspace": {},
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/e788ee5de9193980b9a2c0e506ecce39.git:javaCad.groovy": [
+      "https://gist.github.com/e788ee5de9193980b9a2c0e506ecce39.git",
+      "javaCad.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.10.3",
