@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://gist.github.com/e788ee5de9193980b9a2c0e506ecce39.git": [
+      "GIST: JavaCadExample",
+      "1599711922500"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {
     "https://gist.github.com/e788ee5de9193980b9a2c0e506ecce39.git:javaCad.groovy": [
